@@ -1,0 +1,2 @@
+# hashgen
+Hash/Password generator
